@@ -31,4 +31,4 @@ def solution(words):
         final_answer = ' '.join(output)
         return final_answer
 print(solution('an extremly  dangerous dog is barking'))
-#print(solution('a boy is jump quick'))
+#print(solution('a boy is jumping quickly'))
